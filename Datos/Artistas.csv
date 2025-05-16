@@ -2,7 +2,7 @@ Nombre,Año de nacimiento,País,Apariciones,Obras vendidas,Total ventas,Precio m
 GABRIEL ZEHENDER,1527.0,Suiza,1,1,352800.0,352800.0,100000.0,150000.0,125000.0,122474.49,Retrato y figura humana,,Óleo y témperas,
 PIETER COECKE VAN AELST I,1502.0,Bélgica,4,3,731650.0,243883.33,96500.0,139500.0,118000.0,116024.78,Pintura religiosa,Retrato y figura humana,Óleo y témperas,Técnicas de dibujo húmedas
 GEORGE GOWER,1538.0,Reino Unido,2,2,920950.0,460475.0,154000.0,256000.0,205000.0,198554.78,Retrato y figura humana,,Óleo y témperas,
-QUENTIN METSYS,1550.0,Bélgica,4,4,10757720.0,2689430.0,2014500.0,3021750.0,2518125.0,2467248.54,Pintura religiosa,Retrato y figura humana,Óleo y témperas,
+QUENTIN METSYS,1550.0,Desconocido,4,4,10757720.0,2689430.0,2014500.0,3021750.0,2518125.0,2467248.54,Pintura religiosa,Retrato y figura humana,Óleo y témperas,
 MASTER OF THE LEGEND OF SAINT LUCY,1470.0,Bélgica,2,2,691500.0,345750.0,185000.0,300000.0,242500.0,235584.38,Pintura religiosa,,Óleo y témperas,
 THE MONVAERNI MASTER,1461.0,Francia,1,1,441000.0,441000.0,200000.0,300000.0,250000.0,244948.97,Pintura religiosa,,Óleo y témperas,
 MASTER OF MONTE OLIVETO,1305.0,Italia,1,1,1008000.0,1008000.0,800000.0,1200000.0,1000000.0,979795.9,Pintura religiosa,,Óleo y témperas,
@@ -47,7 +47,7 @@ GIULIO ROSATI,1858.0,Italia,6,6,71653.0,11942.17,8833.33,13333.33,11083.33,10852
 CARL HAAG,1820.0,Alemania,4,3,39590.0,13196.67,8750.0,13500.0,11125.0,10868.53,Trabajos de estudio,Costumbrismo,Técnicas de dibujo húmedas,
 CARL FREDERICH HEINRICH WERNER,1808.0,Alemania,3,3,220638.0,73546.0,18666.67,28000.0,23333.34,22861.91,Pintura religiosa,Costumbrismo,Técnicas de dibujo húmedas,
 JOHN FREDERICK LEWIS P,1805.0,Reino Unido,1,1,6300.0,6300.0,3000.0,5000.0,4000.0,3872.98,Orientalismo,,Técnicas de dibujo húmedas,
-FRANCIS GRANT,1775.0,Reino Unido,4,4,94635.0,23658.75,17250.0,25750.0,21500.0,21075.76,Retrato y figura humana,,Óleo y témperas,
+FRANCIS GRANT,1775.0,Francia,4,4,94635.0,23658.75,17250.0,25750.0,21500.0,21075.76,Retrato y figura humana,,Óleo y témperas,
 GEORGE HENRY,1858.0,Reino Unido,2,1,27500.0,27500.0,52500.0,77500.0,65000.0,63786.75,Retrato y figura humana,Pintura bucólica/Paisajes rurales,Óleo y témperas,
 EDWARD ATKINSON HORNEL,1864.0,Reino Unido,1,0,0,0,10000.0,15000.0,12500.0,12247.45,Retrato y figura humana,,Óleo y témperas,
 JOSEPH CRAWHALL,1861.0,Reino Unido,1,1,7560.0,7560.0,5000.0,8000.0,6500.0,6324.56,Pintura de marinas,,Técnicas de dibujo húmedas,
@@ -78,7 +78,7 @@ ECOLE FRANCAISE DU XVIIE SIECLE ENTOURAGE DE PHILIPPE DE CHAMPAIGNE,1750.0,Franc
 GEROME DANIEL,1649.0,Desconocido,1,1,5040.0,5040.0,3000.0,4000.0,3500.0,3464.1,Pintura religiosa,,Óleo y témperas,
 ECOLE ANVERSOISE DU XVIIE SIECLE,1650.0,Desconocido,4,3,158750.0,52916.67,26750.0,40750.0,33750.0,33016.09,Pintura alegórica,Costumbrismo,Óleo y témperas,
 JACQUES LINARD,1597.0,Francia,1,0,0,0,50000.0,80000.0,65000.0,63245.55,Bodegones,,Óleo y témperas,
-LOUYSE MOILLON,1610.0,Desconocido,2,2,100400.0,50200.0,50000.0,75000.0,62500.0,61237.24,Bodegones,,Óleo y témperas,
+LOUYSE MOILLON,1610.0,Francia,2,2,100400.0,50200.0,50000.0,75000.0,62500.0,61237.24,Bodegones,,Óleo y témperas,
 JEAN MICHEL PICART,1600.0,Francia,1,1,15120.0,15120.0,15000.0,25000.0,20000.0,19364.92,Bodegones,,Óleo y témperas,
 ISAAK SOREAU,1604.0,Desconocido,1,1,69300.0,69300.0,20000.0,30000.0,25000.0,24494.9,Bodegones,,Óleo y témperas,
 ECOLE FLAMANDE DU XVIIE SIECLE ENTOURAGE DE JAN VAN KESSEL LE JEUNE,1650.0,Paises Bajos,9,6,142450.0,23741.67,8333.33,12000.0,10166.67,10000.0,Pintura bucólica/Paisajes rurales,Retrato y figura humana,Óleo y témperas,Técnicas de dibujo húmedas
@@ -92,7 +92,7 @@ ADRIAEN VAN STALBEMT,1580.0,Bélgica,3,2,125000.0,62500.0,33333.33,48333.33,4083
 GILLIS CLAESZ DE HONDECOETER,1575.0,Paises Bajos,4,4,101330.0,25332.5,25000.0,40000.0,32500.0,31622.78,Pintura bucólica/Paisajes rurales,,Óleo y témperas,
 CLAUDE DERUET,1588.0,Francia,2,2,9828.0,4914.0,2500.0,3500.0,3000.0,2958.04,Retrato y figura humana,Pintura alegórica,Óleo y témperas,
 ECOLE HOLLANDAISE 1614,1614.0,Paises Bajos,1,0,0,0,5000.0,7000.0,6000.0,5916.08,Retrato y figura humana,,Óleo y témperas,
-ISAACK JACOBSZ VAN HOOREN,1601.0,Paises Bajos,2,2,11270.0,5635.0,4000.0,6500.0,5250.0,5099.02,Retrato y figura humana,,Óleo y témperas,
+ISAACK JACOBSZ VAN HOOREN,1601.0,Francia,2,2,11270.0,5635.0,4000.0,6500.0,5250.0,5099.02,Retrato y figura humana,,Óleo y témperas,
 UX FRERES HENRI,1603.0,Francia,1,0,0,0,20000.0,30000.0,25000.0,24494.9,Retrato y figura humana,,Óleo y témperas,
 PIETER CLAESZ,1597.0,Paises Bajos,7,6,1310940.0,218490.0,151000.0,223285.71,187142.86,183619.56,Bodegones,Pintura alegórica,Óleo y témperas,
 ECOLE HOLLANDAISE DU XVIIE SIECLE SUIVEUR DE WILLEM CLAESZ HEDA,1594.0,Paises Bajos,3,3,1295280.0,431760.0,190000.0,293333.33,241666.66,236079.08,Bodegones,,Óleo y témperas,
@@ -225,7 +225,7 @@ FRANS DE MOMPER,1603.0,Bélgica,2,2,35532.0,17766.0,16500.0,27000.0,21750.0,2110
 PAUL BRIL,1553.0,Italia,6,3,305475.0,101825.0,82666.67,123000.0,102833.34,100836.5,Pintura histórica y mitológica,Pintura religiosa,Óleo y témperas,
 QUINTEN METSYS,1466.0,Bélgica,3,3,100200.0,33400.0,20000.0,28333.33,24166.66,23804.76,Pintura religiosa,Costumbrismo,Óleo y témperas,
 CORNEILLE DE LYON,1500.0,Francia,4,4,699050.0,174762.5,135000.0,202500.0,168750.0,165340.56,Retrato y figura humana,,Óleo y témperas,
-MASTER OF THE LIEGE DISCIPLES AT EMMAUS POSSIBLY IDENTIFIABLE AS JAN VAN AMSTEL,1490.0,Paises Bajos,2,2,51380.0,25690.0,20000.0,32500.0,26250.0,25495.1,Pintura religiosa,,Óleo y témperas,
+MASTER OF THE LIEGE DISCIPLES AT EMMAUS POSSIBLY IDENTIFIABLE AS JAN VAN AMSTEL,1490.0,Bélgica,2,2,51380.0,25690.0,20000.0,32500.0,26250.0,25495.1,Pintura religiosa,,Óleo y témperas,
 HIERONYMUS BOSCH,1450.0,Desconocido,14,14,1291610.0,92257.86,47071.43,69500.0,58285.72,57196.72,Pintura religiosa,Retrato y figura humana,Óleo y témperas,
 FLEMISH SCHOOL EARLY 18TH CENTURY,1550.0,Paises Bajos,4,4,48120.0,12030.0,9875.0,14875.0,12375.0,12119.84,Pintura religiosa,Paisaje Urbano,Óleo y témperas,
 TOMMASO MANZUOLI CALLED MASO DI SAN FRIANO,1531.0,Italia,2,1,4000.0,4000.0,36500.0,52500.0,44500.0,43774.99,Retrato y figura humana,,Óleo y témperas,Técnicas de dibujo húmedas
@@ -251,7 +251,7 @@ PHILIPS DE MOMPER,1589.0,Bélgica,2,2,79380.0,39690.0,35000.0,55000.0,45000.0,43
 W MERTENS,1650.0,Bélgica,1,1,88200.0,88200.0,80000.0,120000.0,100000.0,97979.59,Bodegones,,Óleo y témperas,
 NICOLAES BERCHEM,1620.0,Paises Bajos,5,5,436930.0,87386.0,74000.0,110000.0,92000.0,90221.95,Pintura histórica y mitológica,Costumbrismo,Óleo y témperas,
 SALOMON VAN RUYSDAEL,1600.0,Paises Bajos,11,10,3129060.0,312906.0,163818.18,246636.36,205227.27,201006.27,Pintura bucólica/Paisajes rurales,Pintura de marinas,Óleo y témperas,
-BARTHOLOMEUS VAN BASSEN,1590.0,Paises Bajos,2,2,18270.0,9135.0,12500.0,17500.0,15000.0,14790.2,Costumbrismo,,Óleo y témperas,
+BARTHOLOMEUS VAN BASSEN,1590.0,Desconocido,2,2,18270.0,9135.0,12500.0,17500.0,15000.0,14790.2,Costumbrismo,,Óleo y témperas,
 JAN MORTEL,1650.0,Paises Bajos,2,2,80640.0,40320.0,46000.0,69000.0,57500.0,56338.26,Pintura bucólica/Paisajes rurales,Bodegones,Óleo y témperas,
 JAKOB MARREL,1613.0,Alemania,1,0,0,0,120000.0,180000.0,150000.0,146969.38,Bodegones,,Óleo y témperas,
 JACOB VAN OOST I,1603.0,Bélgica,1,1,10080.0,10080.0,10000.0,15000.0,12500.0,12247.45,Retrato y figura humana,,Óleo y témperas,
@@ -373,7 +373,7 @@ POLIDORO DE RENZI CALLED POLIDORO DA LANCIANO,1515.0,Italia,2,1,9375.0,9375.0,85
 GIACOMO FARELLI,1629.0,Italia,1,0,0,0,10000.0,15000.0,12500.0,12247.45,Pintura histórica y mitológica,,Óleo y témperas,
 GERMAN SCHOOL 16TH CENTURY,1550.0,Alemania,8,7,65217.0,9316.71,10812.5,16437.5,13625.0,13331.56,Pintura religiosa,Retrato y figura humana,Óleo y témperas,Técnicas de dibujo húmedas
 MASTER B,1550.0,Desconocido,1,1,15120.0,15120.0,5000.0,8000.0,6500.0,6324.56,Retrato y figura humana,,Óleo y témperas,
-JORIS VAN DER HAAGEN,1615.0,Paises Bajos,2,2,16600.0,8300.0,6500.0,10000.0,8250.0,8062.26,Trabajos de estudio,Pintura bucólica/Paisajes rurales,Óleo y témperas,
+JORIS VAN DER HAAGEN,1615.0,Desconocido,2,2,16600.0,8300.0,6500.0,10000.0,8250.0,8062.26,Trabajos de estudio,Pintura bucólica/Paisajes rurales,Óleo y témperas,
 SAMUEL VAN HOOGSTRATEN,1627.0,Paises Bajos,3,2,24535.0,12267.5,14333.33,21666.67,18000.0,17622.59,Retrato y figura humana,,Óleo y témperas,Técnicas de dibujo húmedas
 JAMES WYATT,1746.0,Reino Unido,1,1,20160.0,20160.0,10000.0,15000.0,12500.0,12247.45,Trabajos de estudio,,Técnicas de dibujo húmedas,
 ENGLISH SCHOOL EARLY 17TH CENTURY,1650.0,Reino Unido,1,0,0,0,20000.0,30000.0,25000.0,24494.9,Retrato y figura humana,,Óleo y témperas,
@@ -517,7 +517,7 @@ EDWARD PRITCHETT,1828.0,Reino Unido,2,2,13160.0,6580.0,6000.0,8000.0,7000.0,6928
 WILLIAM WYLD,1806.0,Reino Unido,2,1,2000.0,2000.0,16000.0,26500.0,21250.0,20591.26,Paisaje Urbano,,Óleo y témperas,Técnicas de dibujo húmedas
 WILLIAM HOLMAN HUNT,1827.0,Reino Unido,5,5,142385.0,28477.0,21960.0,33040.0,27500.0,26936.19,Retrato y figura humana,Pintura alegórica,Técnicas de dibujo húmedas,Técnicas de dibujo secas
 JACOB CORNELISZ VAN OOSTSANEN,1460.0,Paises Bajos,3,2,245350.0,122675.0,61666.67,100000.0,80833.33,78528.13,Pintura religiosa,,Óleo y témperas,
-LUCAS GASSEL,1500.0,Paises Bajos,4,3,75010.0,25003.33,15500.0,23750.0,19625.0,19186.58,Pintura religiosa,Pintura bucólica/Paisajes rurales,Óleo y témperas,Técnicas de dibujo húmedas
+LUCAS GASSEL,1500.0,Desconocido,4,3,75010.0,25003.33,15500.0,23750.0,19625.0,19186.58,Pintura religiosa,Pintura bucólica/Paisajes rurales,Óleo y témperas,Técnicas de dibujo húmedas
 FLEMISH SCHOOL LATE 16TH CENTURY,1550.0,Paises Bajos,3,2,65320.0,32660.0,28000.0,42000.0,35000.0,34292.86,Retrato y figura humana,Costumbrismo,Óleo y témperas,
 GILLIS CLAEISSENS,1526.0,Bélgica,2,1,75000.0,75000.0,27500.0,42500.0,35000.0,34186.99,Retrato y figura humana,,Óleo y témperas,
 JOOS DE MOMPER II,1564.0,Bélgica,8,8,781840.0,97730.0,51250.0,78125.0,64687.5,63276.43,Costumbrismo,Pintura bucólica/Paisajes rurales,Óleo y témperas,
@@ -674,7 +674,7 @@ MARIA FELICE TIBALDI,1707.0,Desconocido,1,1,23940.0,23940.0,12000.0,18000.0,1500
 JACQUES LAURENT AGASSE,1767.0,Reino Unido,7,5,594375.0,118875.0,85571.43,135428.57,110500.0,107651.37,Pintura bucólica/Paisajes rurales,Trabajos de estudio,Óleo y témperas,Técnicas de dibujo húmedas
 LEON MATTHIEU COCHEREAU,1793.0,Francia,1,0,0,0,30000.0,50000.0,40000.0,38729.83,Pintura religiosa,,Óleo y témperas,
 FRANS POURBUS I,1545.0,Bélgica,2,2,439700.0,219850.0,100000.0,165000.0,132500.0,128452.33,Retrato y figura humana,,Óleo y témperas,
-JAN GOSSAERT,1478.0,Bélgica,2,2,130900.0,65450.0,37500.0,52500.0,45000.0,44370.6,Pintura religiosa,,Óleo y témperas,
+JAN GOSSAERT,1478.0,Desconocido,2,2,130900.0,65450.0,37500.0,52500.0,45000.0,44370.6,Pintura religiosa,,Óleo y témperas,
 HERRI MET DE BLES CALLED CIVETTA,1510.0,Bélgica,6,4,620390.0,155097.5,86333.33,119000.0,102666.66,101359.1,Pintura religiosa,Costumbrismo,Óleo y témperas,
 GERARD TER BORCH II,1617.0,Paises Bajos,5,5,465787.0,93157.4,80000.0,126000.0,103000.0,100399.2,Retrato y figura humana,Costumbrismo,Óleo y témperas,Técnicas de dibujo secas
 ROELANDT SAVERY,1576.0,Paises Bajos,4,3,84160.0,28053.33,23750.0,37500.0,30625.0,29843.34,Pintura bucólica/Paisajes rurales,Costumbrismo,Óleo y témperas,
@@ -721,7 +721,7 @@ KARL MEDIZ,1868.0,Alemania,1,1,25200.0,25200.0,30000.0,50000.0,40000.0,38729.83,
 EDGARD MAXENCE,1871.0,Francia,1,1,1890.0,1890.0,6000.0,8000.0,7000.0,6928.2,Pintura histórica y mitológica,,Óleo y témperas,
 ARTHUR WARDLE,1864.0,Reino Unido,2,2,31380.0,15690.0,10000.0,15000.0,12500.0,12247.45,Pintura religiosa,,Óleo y témperas,
 JOSEPH NOEL PATON,1821.0,Reino Unido,2,2,33800.0,16900.0,8500.0,12500.0,10500.0,10307.76,Retrato y figura humana,,Óleo y témperas,
-LUCIEN LEVY DHURMER,1865.0,Italia,6,6,681490.0,113581.67,23833.33,35333.33,29583.33,29019.15,Retrato y figura humana,Paisaje Urbano,Técnicas de dibujo secas,Óleo y témperas
+LUCIEN LEVY DHURMER,1865.0,Francia,6,6,681490.0,113581.67,23833.33,35333.33,29583.33,29019.15,Retrato y figura humana,Paisaje Urbano,Técnicas de dibujo secas,Óleo y témperas
 HENRY DAWSON,1811.0,Reino Unido,2,2,17575.0,8787.5,8000.0,11500.0,9750.0,9591.66,Pintura alegórica,Paisaje Urbano,Óleo y témperas,
 LOUIS MARIE DE SCHRYVER,1862.0,Francia,3,3,707300.0,235766.67,156666.67,250000.0,203333.34,197905.7,Costumbrismo,Paisaje Urbano,Óleo y témperas,
 FRANK MYERS BOGGS,1855.0,Estados Unidos,2,1,6875.0,6875.0,10000.0,16000.0,13000.0,12649.11,Pintura de marinas,,Óleo y témperas,
@@ -732,7 +732,7 @@ RICHARD ANSDELL,1815.0,Reino Unido,4,4,28522.0,7130.5,8750.0,13000.0,10875.0,106
 WILLIAM JAMES BLACKLOCK,1870.0,Reino Unido,12,11,1196105.0,108736.82,51516.67,75775.0,63645.84,62479.4,Pintura bucólica/Paisajes rurales,Retrato y figura humana,Óleo y témperas,Técnicas de dibujo húmedas
 JULIEN DUPRE,1851.0,Francia,9,8,388270.0,48533.75,24222.22,34666.67,29444.44,28977.64,Pintura bucólica/Paisajes rurales,Retrato y figura humana,Óleo y témperas,
 DANIEL RIDGWAY KNIGHT,1839.0,Estados Unidos,3,2,48990.0,24495.0,22333.33,34333.33,28333.33,27690.75,Pintura alegórica,Pintura de marinas,Óleo y témperas,
-FRANZ XAVER PETTER,1805.0,Austria,3,2,250000.0,125000.0,70000.0,103333.33,86666.66,85049.0,Retrato y figura humana,Bodegones,Óleo y témperas,
+FRANZ XAVER PETTER,1805.0,Desconocido,3,2,250000.0,125000.0,70000.0,103333.33,86666.66,85049.0,Retrato y figura humana,Bodegones,Óleo y témperas,
 ANDREAS ACHENBACH,1815.0,Alemania,2,2,24450.0,12225.0,12500.0,17500.0,15000.0,14790.2,Pintura de marinas,,Óleo y témperas,
 GIOVANNI BOLDINI,1842.0,Italia,14,13,2814450.0,216496.15,188000.0,255571.43,221785.72,219197.24,Retrato y figura humana,Trabajos de estudio,Óleo y témperas,Técnicas de dibujo secas
 WYNFORD DEWHURST,1864.0,Reino Unido,1,1,10080.0,10080.0,10000.0,15000.0,12500.0,12247.45,Pintura religiosa,,Óleo y témperas,
@@ -902,7 +902,7 @@ LAWRENCE ALMA TADEMA,1836.0,Reino Unido,4,4,143300.0,35825.0,25000.0,36500.0,307
 RICHARD DADD,1819.0,Reino Unido,1,0,0,0,80000.0,120000.0,100000.0,97979.59,Pintura religiosa,,Técnicas de dibujo húmedas,
 FRIEDRICH NERLY THE ELDER,1807.0,Alemania,2,0,0,0,140000.0,170000.0,155000.0,154272.49,Pintura religiosa,Paisaje Urbano,Óleo y témperas,
 ALBRECHT DURER,1471.0,Alemania,3,2,25110.0,12555.0,89333.33,125666.67,107500.0,105953.87,Pintura religiosa,,Óleo y témperas,Técnicas de dibujo húmedas
-QUENTIN MASSYS CIRCA 1600,1600.0,Desconocido,2,2,511420.0,255710.0,32500.0,47500.0,40000.0,39290.58,Pintura religiosa,Costumbrismo,Óleo y témperas,
+QUENTIN MASSYS CIRCA 1600,1600.0,Francia,2,2,511420.0,255710.0,32500.0,47500.0,40000.0,39290.58,Pintura religiosa,Costumbrismo,Óleo y témperas,
 GILLIS VAN CONINXLOO II,1544.0,Paises Bajos,2,2,69430.0,34715.0,33500.0,45000.0,39250.0,38826.54,Costumbrismo,Pintura bucólica/Paisajes rurales,Óleo y témperas,
 THE MASTER OF THE MANSI MAGDALEN,1550.0,Paises Bajos,1,1,18900.0,18900.0,18000.0,25000.0,21500.0,21213.2,Pintura religiosa,,Óleo y témperas,
 FLEMISH SCHOOL CIRCA 1540,1540.0,Paises Bajos,2,1,18750.0,18750.0,11500.0,17500.0,14500.0,14186.26,Pintura religiosa,Retrato y figura humana,Óleo y témperas,
@@ -970,7 +970,7 @@ GUILLIAM GABRON,1619.0,Bélgica,1,1,25200.0,25200.0,15000.0,20000.0,17500.0,1732
 PEETER SION,1620.0,Bélgica,1,1,13860.0,13860.0,6000.0,8000.0,7000.0,6928.2,Pintura religiosa,,Óleo y témperas,
 ESAIAS TERWESTEN,1661.0,Italia,1,1,7560.0,7560.0,8000.0,12000.0,10000.0,9797.96,Bodegones,,Óleo y témperas,
 EUGENE BOUDIN,1824.0,Francia,7,7,1297050.0,185292.86,155714.29,240000.0,197857.14,193316.91,Paisaje Urbano,Pintura de marinas,Óleo y témperas,
-JAMES MCNEILL WHISTLER,1834.0,Estados Unidos,4,4,122860.0,30715.0,26550.0,41700.0,34125.0,33273.64,Retrato y figura humana,Paisaje Urbano,Técnicas de dibujo secas,Técnicas de dibujo húmedas
+JAMES MCNEILL WHISTLER,1834.0,Reino Unido,4,4,122860.0,30715.0,26550.0,41700.0,34125.0,33273.64,Retrato y figura humana,Paisaje Urbano,Técnicas de dibujo secas,Técnicas de dibujo húmedas
 MAURICE BRAZIL PRENDERGAST,1859.0,Estados Unidos,1,1,277200.0,277200.0,100000.0,150000.0,125000.0,122474.49,Paisaje Urbano,,Técnicas de dibujo húmedas,
 JOHN WHITE ALEXANDER,1856.0,Estados Unidos,3,3,703080.0,234360.0,76666.67,110000.0,93333.34,91833.18,Retrato y figura humana,,Óleo y témperas,
 JAMES,1836.0,Reino Unido,6,6,678050.0,113008.33,136666.67,211666.67,174166.67,170081.68,Paisaje Urbano,Costumbrismo,Óleo y témperas,Técnicas de dibujo húmedas
@@ -1078,7 +1078,7 @@ JOACHIM VON SANDRART I,1606.0,Alemania,1,1,1134.0,1134.0,4000.0,6000.0,5000.0,48
 GERMAN SCHOOL LATE 16TH CENTURY,1350.0,Alemania,3,2,42500.0,21250.0,5333.33,7666.67,6500.0,6394.44,Pintura religiosa,,Óleo y témperas,Técnicas de dibujo húmedas
 PHILIPE DE GRAEF,1636.0,Bélgica,1,1,23940.0,23940.0,8000.0,12000.0,10000.0,9797.96,Pintura religiosa,,Óleo y témperas,
 HENDRIK MOMMERS,1623.0,Paises Bajos,1,0,0,0,12000.0,18000.0,15000.0,14696.94,Costumbrismo,,Óleo y témperas,
-PIETER BOUT,1640.0,Paises Bajos,2,2,223210.0,111605.0,63000.0,94000.0,78500.0,76954.53,Retrato y figura humana,Costumbrismo,Óleo y témperas,
+PIETER BOUT,1640.0,Bélgica,2,2,223210.0,111605.0,63000.0,94000.0,78500.0,76954.53,Retrato y figura humana,Costumbrismo,Óleo y témperas,
 NICOLAES WILLING,1640.0,Alemania,1,1,3780.0,3780.0,4000.0,6000.0,5000.0,4898.98,Pintura histórica y mitológica,,Óleo y témperas,
 ROTTERDAM SCHOOL CIRCA 1660,1660.0,Paises Bajos,1,0,0,0,10000.0,15000.0,12500.0,12247.45,Costumbrismo,,Óleo y témperas,
 OTTAVIANO NELLI,1370.0,Desconocido,1,1,75600.0,75600.0,20000.0,40000.0,30000.0,28284.27,Pintura religiosa,,Óleo y témperas,
@@ -1169,7 +1169,7 @@ CORNELIS DUSART,1660.0,Paises Bajos,4,4,51345.0,12836.25,10000.0,14250.0,12125.0
 DANIEL MIJTENS I,1590.0,Paises Bajos,1,1,18900.0,18900.0,20000.0,30000.0,25000.0,24494.9,Retrato y figura humana,,Óleo y témperas,
 CORNELIS TROOST,1696.0,Paises Bajos,2,2,48210.0,24105.0,15000.0,22500.0,18750.0,18371.17,Pintura religiosa,Retrato y figura humana,Óleo y témperas,Técnicas de dibujo húmedas
 ABRAHAM BRUEGHEL,1631.0,Italia,2,2,45170.0,22585.0,15000.0,22500.0,18750.0,18371.17,Bodegones,,Óleo y témperas,
-AFTER FRANCIS COTES,,Estados Unidos,2,2,14190.0,7095.0,8500.0,13000.0,10750.0,10511.9,Retrato y figura humana,,Óleo y témperas,
+AFTER FRANCIS COTES,,Reino Unido,2,2,14190.0,7095.0,8500.0,13000.0,10750.0,10511.9,Retrato y figura humana,,Óleo y témperas,
 ENGLISH SCHOOL 18TH CENTURY,1750.0,Reino Unido,3,3,28094.0,9364.67,5333.33,7666.67,6500.0,6394.44,Retrato y figura humana,Costumbrismo,Óleo y témperas,Técnicas de dibujo húmedas
 GERMAN SCHOOL 18TH CENTURY,1750.0,Alemania,1,1,3780.0,3780.0,7000.0,10000.0,8500.0,8366.6,Retrato y figura humana,,Óleo y témperas,
 WILLEM WISSING,1656.0,Paises Bajos,2,2,10080.0,5040.0,4500.0,6500.0,5500.0,5408.33,Retrato y figura humana,,Óleo y témperas,
@@ -1248,7 +1248,7 @@ FREDERIC REMINGTON,1861.0,Estados Unidos,3,3,289800.0,96600.0,70000.0,100000.0,8
 HENRY F FARNY,1847.0,Estados Unidos,5,4,1096200.0,274050.0,184000.0,296000.0,240000.0,233375.23,Trabajos de estudio,,Técnicas de dibujo húmedas,
 RICHARD LORENZ,1858.0,Estados Unidos,1,1,504000.0,504000.0,200000.0,300000.0,250000.0,244948.97,Pintura religiosa,,Óleo y témperas,
 A D M COOPER,1856.0,Estados Unidos,1,1,40320.0,40320.0,20000.0,30000.0,25000.0,24494.9,Pintura religiosa,,Óleo y témperas,
-WILLIAM DE LA MONTAGNE CARY,1840.0,Estados Unidos,2,2,94878.0,47439.0,25750.0,36000.0,30875.0,30446.67,Costumbrismo,Pintura de marinas,Óleo y témperas,Técnicas de dibujo húmedas
+WILLIAM DE LA MONTAGNE CARY,1840.0,Reino Unido,2,2,94878.0,47439.0,25750.0,36000.0,30875.0,30446.67,Costumbrismo,Pintura de marinas,Óleo y témperas,Técnicas de dibujo húmedas
 GEORGE CATLIN,1796.0,Estados Unidos,1,1,1197000.0,1197000.0,800000.0,1200000.0,1000000.0,979795.9,Pintura religiosa,,Óleo y témperas,
 JOHN MIX STANLEY,1814.0,Estados Unidos,1,1,1071000.0,1071000.0,1000000.0,1500000.0,1250000.0,1224744.87,Pintura religiosa,,Óleo y témperas,
 JUNIUS BRUTUS STEARNS,1810.0,Estados Unidos,1,1,277200.0,277200.0,150000.0,250000.0,200000.0,193649.17,Trabajos de estudio,,Óleo y témperas,
@@ -1406,7 +1406,7 @@ SALOMON LEONARDUS VERVEER,1813.0,Paises Bajos,1,1,16250.0,16250.0,12000.0,18000.
 PIETER GERARDUS VERTIN,1819.0,Paises Bajos,1,1,3500.0,3500.0,4000.0,6000.0,5000.0,4898.98,Paisaje Urbano,,Óleo y témperas,
 WILLEM KOEKKOEK,1839.0,Paises Bajos,1,1,25000.0,25000.0,25000.0,35000.0,30000.0,29580.4,Pintura religiosa,,Óleo y témperas,
 ADRIANUS EVERSEN,1818.0,Paises Bajos,2,2,21250.0,10625.0,13500.0,21500.0,17500.0,17036.73,Paisaje Urbano,,Óleo y témperas,
-JACQUES FRANCOIS CARABAIN,1738.0,Paises Bajos,2,2,1090000.0,545000.0,220000.0,330000.0,275000.0,269443.87,Paisaje Urbano,,Óleo y témperas,
+JACQUES FRANCOIS CARABAIN,1738.0,Francia,2,2,1090000.0,545000.0,220000.0,330000.0,275000.0,269443.87,Paisaje Urbano,,Óleo y témperas,
 MYLES BIRKET FOSTER,1825.0,Reino Unido,3,3,9750.0,3250.0,3133.33,4866.67,4000.0,3904.98,Pintura bucólica/Paisajes rurales,,Técnicas de dibujo húmedas,
 AMSTERDAM SCHOOL FIRST QUARTER OF THE 17TH CENTURY,1650.0,Paises Bajos,1,1,18750.0,18750.0,8000.0,12000.0,10000.0,9797.96,Retrato y figura humana,,Óleo y témperas,
 GIJSBERT DE HONDECOETER,1603.0,Paises Bajos,1,1,32500.0,32500.0,10000.0,15000.0,12500.0,12247.45,Pintura bucólica/Paisajes rurales,,Óleo y témperas,
@@ -1645,7 +1645,7 @@ LOUIS VINCENT LEON PALLIERE,1787.0,Francia,1,1,50000.0,50000.0,40000.0,60000.0,5
 JACQUES SABLET,1749.0,Francia,1,1,37500.0,37500.0,30000.0,50000.0,40000.0,38729.83,Retrato y figura humana,,Óleo y témperas,
 LOUIS MASRELIEZ,1748.0,Francia,1,1,62500.0,62500.0,70000.0,100000.0,85000.0,83666.0,Pintura alegórica,,Óleo y témperas,
 EMILIO SANCHEZ PERRIER,1855.0,España,7,7,157500.0,22500.0,15142.86,22000.0,18571.43,18252.2,Pintura bucólica/Paisajes rurales,Paisaje Urbano,Óleo y témperas,
-FRANZ KNEBEL,1809.0,Suiza,2,2,8250.0,4125.0,11000.0,17000.0,14000.0,13674.79,Pintura histórica y mitológica,,Óleo y témperas,Técnicas de dibujo húmedas
+FRANZ KNEBEL,1809.0,Italia,2,2,8250.0,4125.0,11000.0,17000.0,14000.0,13674.79,Pintura histórica y mitológica,,Óleo y témperas,Técnicas de dibujo húmedas
 ALEXANDER MAX KOESTER,1864.0,Alemania,1,1,22500.0,22500.0,20000.0,30000.0,25000.0,24494.9,Pintura religiosa,,Óleo y témperas,
 MADELEINE JEANNE LEMAIRE,1845.0,Francia,1,1,60000.0,60000.0,30000.0,50000.0,40000.0,38729.83,Retrato y figura humana,,Óleo y témperas,
 FERNAND TOUSSAINT,1873.0,Bélgica,1,1,12500.0,12500.0,20000.0,30000.0,25000.0,24494.9,Pintura religiosa,,Óleo y témperas,
@@ -1791,7 +1791,7 @@ ALFRED WORDSWORTH THOMPSON,1840.0,Estados Unidos,1,1,7500.0,7500.0,8000.0,12000.
 ISIDORE ALEXANDRE AUGUSTIN PILS,1813.0,Francia,3,3,9125.0,3041.67,3000.0,4333.33,3666.66,3605.55,Retrato y figura humana,Orientalismo,Técnicas de dibujo secas,
 MAX FRIEDRICH FERDINAND RABES,1864.0,Alemania,1,1,18750.0,18750.0,15000.0,25000.0,20000.0,19364.92,Orientalismo,,Óleo y témperas,
 GIULIO ARISTIDE SARTORIO,1860.0,Italia,1,1,18750.0,18750.0,15000.0,25000.0,20000.0,19364.92,Pintura de marinas,,Óleo y témperas,
-GILLIS MOSTAERT,1528.0,Bélgica,2,2,81250.0,40625.0,13500.0,19000.0,16250.0,16015.62,Costumbrismo,,Óleo y témperas,
+GILLIS MOSTAERT,1528.0,Desconocido,2,2,81250.0,40625.0,13500.0,19000.0,16250.0,16015.62,Costumbrismo,,Óleo y témperas,
 NORTH NETHERLANDISH SCHOOL CIRCA 1475 1485,1475.0,Paises Bajos,1,1,87500.0,87500.0,20000.0,30000.0,25000.0,24494.9,Pintura religiosa,,Óleo y témperas,
 NETHERLANDISH SCHOOL CIRCA 1500,1500.0,Paises Bajos,1,1,212500.0,212500.0,30000.0,50000.0,40000.0,38729.83,Pintura religiosa,,Óleo y témperas,
 ANDRES DE MELGAR,1550.0,Desconocido,1,1,15000.0,15000.0,15000.0,20000.0,17500.0,17320.51,Pintura religiosa,,Óleo y témperas,
@@ -1905,7 +1905,7 @@ A BRASS ASTROLABE,,Desconocido,1,1,50000.0,50000.0,50000.0,80000.0,65000.0,63245
 HANS SCHAUFELEIN THE ELDER,1482.0,Alemania,1,1,81250.0,81250.0,60000.0,80000.0,70000.0,69282.03,Retrato y figura humana,,Óleo y témperas,
 CARLO SARACENI,1579.0,Italia,3,3,506000.0,168666.67,110000.0,183333.33,146666.66,142009.39,Pintura religiosa,Retrato y figura humana,Óleo y témperas,
 JOHN YOUNG HUNTER,1874.0,Reino Unido,1,1,125000.0,125000.0,80000.0,120000.0,100000.0,97979.59,Pintura religiosa,,Óleo y témperas,
-GERARD FRANCKSZ VAN DER KUIJL,1604.0,Paises Bajos,2,2,308000.0,154000.0,40000.0,57500.0,48750.0,47958.32,Retrato y figura humana,,Óleo y témperas,
+GERARD FRANCKSZ VAN DER KUIJL,1604.0,Reino Unido,2,2,308000.0,154000.0,40000.0,57500.0,48750.0,47958.32,Retrato y figura humana,,Óleo y témperas,
 ISAAC OUWATER,1748.0,Paises Bajos,2,2,157500.0,78750.0,65000.0,100000.0,82500.0,80622.58,Paisaje Urbano,,Óleo y témperas,
 THOMAS JACQUES SOMERSCALES,1842.0,Reino Unido,1,1,60000.0,60000.0,40000.0,60000.0,50000.0,48989.79,Pintura religiosa,,Óleo y témperas,
 MARCO PINO,1525.0,Italia,1,1,7500.0,7500.0,7000.0,10000.0,8500.0,8366.6,Pintura religiosa,,Técnicas de dibujo húmedas,
@@ -1945,7 +1945,7 @@ PIETRO ANTONIO NOVELLI,1400.0,Italia,2,2,28750.0,14375.0,12500.0,17500.0,15000.0
 GIOVANNI NANNI CALLED GIOVANNI DA UDINE,1487.0,Italia,1,1,2500.0,2500.0,2000.0,3000.0,2500.0,2449.49,Trabajos de estudio,,Técnicas de dibujo húmedas,
 GASPARE GALLIARI,1761.0,Italia,1,1,7500.0,7500.0,5000.0,7000.0,6000.0,5916.08,Pintura religiosa,,Técnicas de dibujo húmedas,
 JEAN AUGUSTE DOMINIQUE INGRES,1780.0,Francia,8,8,1102500.0,137812.5,109625.0,173125.0,141375.0,137763.67,Retrato y figura humana,Pintura religiosa,Técnicas de dibujo secas,Óleo y témperas
-THEODORE CHASSERIAU,1819.0,Desconocido,2,2,165500.0,82750.0,27000.0,38000.0,32500.0,32031.23,Retrato y figura humana,,Óleo y témperas,Técnicas de dibujo secas
+THEODORE CHASSERIAU,1819.0,Francia,2,2,165500.0,82750.0,27000.0,38000.0,32500.0,32031.23,Retrato y figura humana,,Óleo y témperas,Técnicas de dibujo secas
 JACQUES CLEMENT WAGREZ,1846.0,Francia,1,1,5000.0,5000.0,6000.0,8000.0,7000.0,6928.2,Pintura religiosa,,Técnicas de dibujo húmedas,
 MARIE ELLENRIEDER,1791.0,Alemania,1,1,30000.0,30000.0,6000.0,8000.0,7000.0,6928.2,Pintura religiosa,,Técnicas de dibujo secas,
 ANDERS LEONARD ZORN,1860.0,Suecia,2,2,77500.0,38750.0,35000.0,47500.0,41250.0,40773.77,Retrato y figura humana,,Óleo y témperas,Técnicas de dibujo húmedas
@@ -2130,7 +2130,7 @@ TUSCAN SCHOOL CIRCA 1500,1500.0,Italia,1,1,60000.0,60000.0,25000.0,35000.0,30000
 BERNARDINO DI MARIOTTO DELLO STAGNO,1478.0,Italia,1,1,23750.0,23750.0,15000.0,20000.0,17500.0,17320.51,Pintura religiosa,,Óleo y témperas,
 NORTHERN TITIAN EARLY 17TH CENTURY,1650.0,Desconocido,1,1,56250.0,56250.0,15000.0,20000.0,17500.0,17320.51,Retrato y figura humana,,Óleo y témperas,
 FRANCESCO CURRADI,1570.0,Italia,1,1,6000.0,6000.0,5000.0,8000.0,6500.0,6324.56,Trabajos de estudio,,Óleo y témperas,
-DANIEL MYTENS,1590.0,Paises Bajos,2,2,35000.0,17500.0,16000.0,24000.0,20000.0,19595.92,Retrato y figura humana,,Óleo y témperas,
+DANIEL MYTENS,1590.0,Desconocido,2,2,35000.0,17500.0,16000.0,24000.0,20000.0,19595.92,Retrato y figura humana,,Óleo y témperas,
 JOHN DE CRITZ,1551.0,Reino Unido,1,1,25000.0,25000.0,8000.0,12000.0,10000.0,9797.96,Retrato y figura humana,,Óleo y témperas,
 ABRAHAM PETHER,1756.0,Reino Unido,1,1,25000.0,25000.0,20000.0,30000.0,25000.0,24494.9,Pintura alegórica,,Óleo y témperas,
 ANTOINE MONNOYER,1677.0,Francia,1,1,12500.0,12500.0,15000.0,20000.0,17500.0,17320.51,Bodegones,,Óleo y témperas,
